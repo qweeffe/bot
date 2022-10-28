@@ -17,7 +17,7 @@ if os.sys.platform == "win32":
 else:
 	os.system("clear")
 	
-app = Client('admin', api_id=18413850, api_hash='598aac24b5cf0a1b4632485f5f33c4c7')
+app = Client('admin', api_id=26251422, api_hash='d6cb852bdb66d574cc4b0b83dea37061')
 	
 #сасно да? как и хуй даркова
 HELP = '''
